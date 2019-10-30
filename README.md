@@ -5,4 +5,4 @@ First CRUD with Laravel 6
 2. php artisan migrate
 3. php artisan serve
 
-<img src="https://www.stickpng.com/assets/images/58480e35cef1014c0b5e4920.png" alt="Laravel Logo">
+<img src="https://banner2.cleanpng.com/20180530/fep/kisspng-laravel-web-development-web-application-php-softwa-5b0ef567054c44.6615216815277069830217.jpg" alt="Laravel Logo">
